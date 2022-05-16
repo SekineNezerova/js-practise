@@ -1,0 +1,24 @@
+.bunner{
+    width: 100%;
+    height: 200px;
+    background-color: brown;
+}
+.inputs input{
+    margin-top: 10px;
+    height: 30px;
+}
+.button{
+    margin-top: 10px;
+    background-color: brown;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.button2{
+    margin-top: 10px;
+    background-color: rgb(219, 144, 241);
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+
+}
